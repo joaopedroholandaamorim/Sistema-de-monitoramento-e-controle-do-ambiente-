@@ -1,0 +1,2 @@
+/home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/bin/xtensa-esp32-elf-ar qc libesp_mp9250.a CMakeFiles/__idf_esp_mp9250.dir/src/driver_mpu9250.c.obj CMakeFiles/__idf_esp_mp9250.dir/src/mpu9250.c.obj CMakeFiles/__idf_esp_mp9250.dir/src/mpu9250_tests.c.obj CMakeFiles/__idf_esp_mp9250.dir/src/driver_mpu9250_interface.c.obj CMakeFiles/__idf_esp_mp9250.dir/src/madgwick.c.obj
+/home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/bin/xtensa-esp32-elf-ranlib libesp_mp9250.a

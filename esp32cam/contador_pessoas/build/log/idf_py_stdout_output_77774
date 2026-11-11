@@ -1,0 +1,211 @@
+Command: make -j 10 flash
+[  0%] Built target _project_elf_src
+[  0%] Built target sections_ld_in_preprocess
+[  0%] Built target partition_table_bin
+[  0%] Built target memory_ld_in_preprocess
+[  0%] Built target custom_bundle
+[  0%] [34m[1mPerforming build step for 'bootloader'[0m
+[  0%] Built target __idf_esp_https_ota
+[  1%] Built target __idf_esp_http_server
+[  3%] Built target bootloader_sections_ld_in_preprocess
+[  3%] Built target _project_elf_src
+[  3%] Built target bootloader_memory_ld_in_preprocess
+[ 10%] Built target __idf_log
+[  1%] Built target __idf_esp_http_client
+[ 16%] Built target __idf_esp_rom
+[  2%] Built target __idf_tcp_transport
+[ 18%] Built target __idf_esp_common
+[  3%] Built target __idf_esp_adc
+[ 26%] Built target __idf_esp_hw_support
+[  4%] Built target __idf_esp_driver_i2s
+[ 27%] Built target __idf_esp_system
+[  4%] Built target __idf_esp-tls
+[ 33%] Built target __idf_efuse
+[  4%] Built target __idf_http_parser
+[ 50%] Built target __idf_bootloader_support
+[  5%] Built target __idf_esp_hal_i2c
+[ 53%] Built target __idf_esp_security
+[  5%] Built target __idf_esp_gdbstub
+[ 54%] Built target __idf_esp_hal_security
+[  6%] Built target __idf_esp_wifi
+[ 58%] Built target __idf_esp_hal_ana_conv
+[  6%] Built target __idf_esp_coex
+[ 60%] Built target __idf_esp_hal_i2s
+[ 63%] Built target __idf_esp_hal_uart
+[ 14%] Built target __idf_wpa_supplicant
+[ 65%] Built target __idf_esp_hal_wdt
+[ 15%] Built target __idf_esp_netif
+[ 67%] Built target __idf_esp_hal_timg
+[ 68%] Built target __idf_micro-ecc
+[ 69%] Built target __idf_esp_bootloader_format
+[ 24%] Built target __idf_lwip
+[ 70%] Built target __idf_spi_flash
+[ 24%] Built target __idf_vfs
+[ 71%] Built target __idf_esp_hal_mspi
+[ 24%] Built target __idf_esp_phy
+[ 72%] Built target __idf_esp_hal_clock
+[ 76%] Built target __idf_esp_hal_gpspi
+[ 25%] Built target __idf_nvs_flash
+[ 78%] Built target __idf_esp_hal_pmu
+[ 25%] Built target __idf_nvs_sec_provider
+[ 83%] Built target __idf_esp_hal_gpio
+[ 26%] Built target __idf_esp_event
+[ 87%] Built target __idf_hal
+[ 27%] Built target __idf_esp_driver_uart
+[ 93%] Built target __idf_soc
+[ 27%] Built target __idf_esp_psram
+[ 95%] Built target __idf_xtensa
+[ 27%] Built target __idf_esp_ringbuf
+[ 97%] Built target __idf_main
+[ 28%] Built target __idf_esp_timer
+[ 98%] Built target bootloader.elf
+[ 29%] Built target __idf_cxx
+[100%] Built target gen_bootloader_binary
+[ 30%] Built target __idf_pthread
+[100%] Built target gen_project_binary
+[ 33%] Built target __idf_esp_libc
+Bootloader binary size 0x65f0 bytes. 0xa10 bytes (9%) free.
+[ 34%] Built target __idf_freertos
+[100%] Built target bootloader_check_size
+[100%] Built target app
+[ 38%] Built target __idf_esp_hw_support
+[ 38%] [34m[1mNo install step for 'bootloader'[0m
+[ 38%] [34m[1mCompleted 'bootloader'[0m
+[ 39%] Built target __idf_esp_hal_touch_sens
+[ 39%] Built target __idf_esp_hal_pmu
+[ 39%] Built target bootloader
+[ 40%] Built target __idf_esp_hal_gpio
+[ 40%] Built target __idf_soc
+[ 41%] Built target __idf_heap
+[ 42%] Built target __idf_log
+[ 43%] Built target __idf_hal
+[ 44%] Built target __idf_esp_rom
+[ 44%] Built target __idf_esp_common
+[ 47%] Built target __idf_esp_system
+[ 49%] Built target __idf_spi_flash
+[ 50%] Built target __idf_bootloader_support
+[ 51%] Built target __idf_esp_hal_ana_conv
+[ 51%] Built target __idf_esp_hal_i2s
+[ 52%] Built target __idf_esp_hal_wdt
+[ 52%] Built target __idf_esp_hal_timg
+[ 55%] Built target tfpsacrypto
+[ 58%] Built target mbedtls
+[ 59%] Built target mbedx509
+[ 66%] Built target builtin
+[ 66%] Built target p256m
+[ 66%] Built target everest
+[ 67%] Built target __idf_mbedtls
+[ 67%] Built target __idf_esp_driver_dma
+[ 68%] Built target __idf_esp_mm
+[ 69%] Built target __idf_esp_pm
+[ 69%] Built target __idf_esp_hal_uart
+[ 70%] Built target __idf_esp_driver_gpio
+[ 71%] Built target __idf_esp_security
+[ 72%] Built target __idf_efuse
+[ 73%] Built target __idf_esp_partition
+[ 73%] Built target __idf_app_update
+[ 74%] Built target __idf_esp_bootloader_format
+[ 74%] Built target __idf_esp_app_format
+[ 74%] Built target __idf_esp_hal_security
+[ 74%] Built target __idf_esp_hal_mspi
+[ 74%] Built target __idf_esp_hal_clock
+[ 74%] Built target __idf_esp_hal_gpspi
+[ 74%] Built target __idf_esp_stdio
+[ 74%] Built target __idf_xtensa
+[ 74%] Built target __idf_esp_hal_twai
+[ 75%] Built target __idf_esp_driver_spi
+[ 75%] Built target __idf_esp_driver_i2c
+[ 75%] Built target __idf_espressif__esp_jpeg
+[ 75%] Built target __idf_esp_driver_gptimer
+[ 75%] Built target __idf_esp_blockdev_util
+[ 76%] Built target __idf_esp_hal_ledc
+[ 77%] Built target __idf_console
+[ 77%] Built target __idf_esp_driver_cam
+[ 78%] Built target __idf_unity
+[ 79%] Built target __idf_esp_driver_dac
+[ 79%] Built target __idf_esp_hal_mcpwm
+[ 80%] Built target __idf_esp_hal_pcnt
+[ 80%] Built target __idf_esp_hal_rmt
+[ 81%] Built target __idf_esp_hal_sd
+[ 81%] Built target __idf_esp_driver_twai
+[ 81%] Built target __idf_esp_hal_emac
+[ 81%] Built target __idf_esp_driver_touch_sens
+[ 81%] Built target __idf_esp_hal_lcd
+[ 81%] Built target __idf_esp_driver_sdm
+[ 81%] Built target __idf_esp_hid
+[ 82%] Built target __idf_esp_https_server
+[ 82%] Built target __idf_protobuf-c
+[ 83%] Built target __idf_rt
+[ 83%] Built target __idf_perfmon
+[ 83%] Built target __idf_esp_mp9250
+[ 84%] Built target __idf_wear_levelling
+[ 84%] Built target __idf_driver
+[ 84%] Built target __idf_esp_driver_ledc
+[ 85%] Built target __idf_spiffs
+[ 86%] Built target __idf_cmock
+[ 87%] Built target __idf_eps_nrf24l01
+[ 88%] Built target __idf_esp_driver_rmt
+[ 90%] Built target __idf_sdmmc
+[ 90%] Built target __idf_esp_driver_mcpwm
+[ 90%] Built target __idf_esp_driver_sdio
+[ 90%] Built target __idf_esp_eth
+[ 90%] Built target __idf_esp_driver_pcnt
+[ 91%] Built target __idf_esp_lcd
+[ 92%] Built target __idf_protocomm
+[ 92%] Built target __idf_esp_driver_sd_intf
+[ 92%] Built target __idf_esp_driver_sdspi
+[ 95%] Built target __idf_espressif__esp32-camera
+[ 95%] Built target __idf_esp_local_ctrl
+[ 96%] Built target __idf_esp_driver_sdmmc
+[ 98%] Built target __idf_fatfs
+[ 98%] Built target __idf_main
+[100%] Built target __ldgen_output_sections.ld
+[100%] Built target contador_pessoas.elf
+[100%] Built target gen_contador_pessoas_binary
+[100%] Built target gen_project_binary
+contador_pessoas.bin binary size 0xe8670 bytes. Smallest app partition is 0x177000 bytes. 0x8e990 bytes (38%) free.
+[100%] Built target app_check_size
+[100%] Built target app
+esptool --chip esp32 -p /dev/ttyUSB0 -b 460800 --before=default-reset --after=hard-reset write-flash --flash-mode dio --flash-freq 80m --flash-size 4MB 0x1000 bootloader/bootloader.bin 0x8000 partition_table/partition-table.bin 0x10000 contador_pessoas.bin --skip-flashed
+esptool v5.3.0
+Serial port /dev/ttyUSB0:
+Connecting....
+[1A[2K[1A[2KConnected to ESP32 on /dev/ttyUSB0:
+Chip type:          ESP32-D0WD-V3 (revision v3.1)
+Features:           Wi-Fi, BT, Dual Core + LP Core, 240MHz, Vref calibration in eFuse, Coding Scheme None
+Crystal frequency:  40MHz
+MAC:                28:05:a5:25:75:d0
+
+Uploading stub flasher...
+Running stub flasher...
+[1A[2K[1A[2KStub flasher running.
+Changing baud rate to 460800...
+Changed.
+
+Configuring flash size...
+
+Writing 'bootloader/bootloader.bin' at 0x00001000...
+SHA digest in image updated.
+Comparing flash contents against new data...
+[1A[2KFlash will be erased from 0x00001000 to 0x00007fff...
+Compressed 26096 bytes to 16571...
+[KWriting at 0x00001000 [                              ]   0.0% 0/16571 bytes... [KWriting at 0x000074f0 [============================> ]  98.9% 16384/16571 bytes... [KWriting at 0x000075f0 [==============================] 100.0% 16571/16571 bytes... 
+[1A[2K[1A[2KWrote 26096 bytes (16571 compressed) at 0x00001000 in 0.7 seconds (287.7 kbit/s).
+Verifying written data...
+[1A[2KHash of data verified.
+
+Writing 'partition_table/partition-table.bin' at 0x00008000...
+Comparing flash contents against new data...
+[1A[2K'partition_table/partition-table.bin' at 0x00008000 already in flash, skipping write.
+
+Writing 'contador_pessoas.bin' at 0x00010000...
+Comparing flash contents against new data...
+[1A[2KFlash will be erased from 0x00010000 to 0x000f8fff...
+Compressed 951920 bytes to 630495...
+[KWriting at 0x00010000 [                              ]   0.0% 0/630495 bytes... [KWriting at 0x0001d3e4 [                              ]   2.6% 16384/630495 bytes... [KWriting at 0x00026930 [>                             ]   5.2% 32768/630495 bytes... [KWriting at 0x0002d280 [=>                            ]   7.8% 49152/630495 bytes... [KWriting at 0x00037f2c [==>                           ]  10.4% 65536/630495 bytes... [KWriting at 0x0003e82f [==>                           ]  13.0% 81920/630495 bytes... [KWriting at 0x000445a8 [===>                          ]  15.6% 98304/630495 bytes... [KWriting at 0x000497a5 [====>                         ]  18.2% 114688/630495 bytes... [KWriting at 0x0004eb6b [=====>                        ]  20.8% 131072/630495 bytes... [KWriting at 0x00054d46 [======>                       ]  23.4% 147456/630495 bytes... [KWriting at 0x0005c439 [======>                       ]  26.0% 163840/630495 bytes... [KWriting at 0x00061f3f [=======>                      ]  28.6% 180224/630495 bytes... [KWriting at 0x00067771 [========>                     ]  31.2% 196608/630495 bytes... [KWriting at 0x0006cf30 [=========>                    ]  33.8% 212992/630495 bytes... [KWriting at 0x0007295a [=========>                    ]  36.4% 229376/630495 bytes... [KWriting at 0x0007814a [==========>                   ]  39.0% 245760/630495 bytes... [KWriting at 0x0007db58 [===========>                  ]  41.6% 262144/630495 bytes... [KWriting at 0x0008362b [============>                 ]  44.2% 278528/630495 bytes... [KWriting at 0x00088b39 [=============>                ]  46.8% 294912/630495 bytes... [KWriting at 0x0008dfa1 [=============>                ]  49.4% 311296/630495 bytes... [KWriting at 0x00093c41 [==============>               ]  52.0% 327680/630495 bytes... [KWriting at 0x000997f5 [===============>              ]  54.6% 344064/630495 bytes... [KWriting at 0x0009ef71 [================>             ]  57.2% 360448/630495 bytes... [KWriting at 0x000a4712 [================>             ]  59.8% 376832/630495 bytes... [KWriting at 0x000aa2d6 [=================>            ]  62.4% 393216/630495 bytes... [KWriting at 0x000afef3 [==================>           ]  65.0% 409600/630495 bytes... [KWriting at 0x000b528f [===================>          ]  67.6% 425984/630495 bytes... [KWriting at 0x000ba6dc [====================>         ]  70.2% 442368/630495 bytes... [KWriting at 0x000bf7f2 [====================>         ]  72.8% 458752/630495 bytes... [KWriting at 0x000c4c3b [=====================>        ]  75.4% 475136/630495 bytes... [KWriting at 0x000c9ddd [======================>       ]  78.0% 491520/630495 bytes... [KWriting at 0x000cf03d [=======================>      ]  80.6% 507904/630495 bytes... [KWriting at 0x000d43af [=======================>      ]  83.2% 524288/630495 bytes... [KWriting at 0x000d9ab3 [========================>     ]  85.8% 540672/630495 bytes... [KWriting at 0x000df2ad [=========================>    ]  88.4% 557056/630495 bytes... [KWriting at 0x000e516f [==========================>   ]  91.0% 573440/630495 bytes... [KWriting at 0x000eafaa [===========================>  ]  93.5% 589824/630495 bytes... [KWriting at 0x000f050f [===========================>  ]  96.1% 606208/630495 bytes... [KWriting at 0x000f590d [============================> ]  98.7% 622592/630495 bytes... [KWriting at 0x000f8670 [==============================] 100.0% 630495/630495 bytes... 
+[1A[2K[1A[2KWrote 951920 bytes (630495 compressed) at 0x00010000 in 15.7 seconds (485.8 kbit/s).
+Verifying written data...
+[1A[2KHash of data verified.
+
+Hard resetting via RTS pin...
+[100%] Built target flash

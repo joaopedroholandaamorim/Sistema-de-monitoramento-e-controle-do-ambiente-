@@ -1,0 +1,2 @@
+/home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/bin/xtensa-esp32-elf-ar qc libeps_nrf24l01.a CMakeFiles/__idf_eps_nrf24l01.dir/src/driver_mpu9250.c.obj CMakeFiles/__idf_eps_nrf24l01.dir/src/mpu9250.c.obj CMakeFiles/__idf_eps_nrf24l01.dir/src/mpu9250_tests.c.obj CMakeFiles/__idf_eps_nrf24l01.dir/src/driver_mpu9250_interface.c.obj CMakeFiles/__idf_eps_nrf24l01.dir/src/madgwick.c.obj
+/home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/bin/xtensa-esp32-elf-ranlib libeps_nrf24l01.a

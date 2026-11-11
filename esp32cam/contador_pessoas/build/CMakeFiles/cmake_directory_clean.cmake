@@ -1,0 +1,16 @@
+file(REMOVE_RECURSE
+  "config/sdkconfig.h"
+  "config/sdkconfig.cmake"
+  "bootloader/bootloader.elf"
+  "bootloader/bootloader.bin"
+  "bootloader/bootloader.map"
+  "contador_pessoas.map"
+  "project_elf_src_esp32.c"
+  "ldgen_libraries.in"
+  "ldgen_libraries"
+  "contador_pessoas.bin"
+  "flash_app_args"
+  "flash_project_args"
+  "flasher_args.json.in"
+  "flasher_args.json"
+)

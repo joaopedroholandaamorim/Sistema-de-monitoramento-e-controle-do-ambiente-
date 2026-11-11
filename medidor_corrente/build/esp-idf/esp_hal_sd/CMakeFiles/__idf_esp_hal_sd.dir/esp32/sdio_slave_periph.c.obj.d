@@ -1,0 +1,37 @@
+esp-idf/esp_hal_sd/CMakeFiles/__idf_esp_hal_sd.dir/esp32/sdio_slave_periph.c.obj: \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/esp_hal_sd/esp32/sdio_slave_periph.c \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/stdint.h \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/esp_libc/platform_include/sys/cdefs.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/cdefs.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/config.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/machine/ieeefp.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/features.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/picolibc.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/lib/gcc/xtensa-esp-elf/15.2.0/include/float.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/machine/_default_types.h \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp32/medidor_corrente/build/config/sdkconfig.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/lib/gcc/xtensa-esp-elf/15.2.0/include/stddef.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/_intsup.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/_stdint.h \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/esp_hal_sd/include/hal/sdio_slave_periph.h \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/soc/esp32/include/soc/soc_caps.h \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/soc/include/soc/soc_caps_eval.h \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/soc/esp32/register/soc/sdio_slc_reg.h \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/soc/esp32/include/soc/soc.h \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/esp_common/include/esp_assert.h \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/esp_libc/platform_include/assert.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/stdlib.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/machine/stdlib.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/alloca.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/_locale.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/_wait.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/assert.h \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/soc/esp32/include/soc/interrupts.h \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/esp_common/include/esp_bit_defs.h \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/soc/esp32/register/soc/reg_base.h \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/soc/esp32/register/soc/sdio_slc_struct.h \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/soc/esp32/register/soc/sdio_slc_host_reg.h \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/soc/esp32/register/soc/sdio_slc_host_struct.h \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/soc/esp32/register/soc/sdio_hinf_reg.h \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/soc/esp32/register/soc/sdio_hinf_struct.h \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/esp_hal_sd/esp32/include/soc/sdio_slave_pins.h

@@ -1,0 +1,24 @@
+Command: make -j 10 all
+Configuration Report               
+ ───────────────────────────────── 
+   Parser Version: 1               
+   Verbosity: default              
+   Defaults policy: sdkconfig      
+   Status: Finished successfully   
+                                   
+ ───────────────────────────────── 
+/home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/eps_nrf24l01/src/madgwick.c: In function 'Madgwick_Update':
+/home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/eps_nrf24l01/src/madgwick.c:41:11: warning: unused variable 'q0q0' [-Wunused-variable]
+   41 |     float q0q0 = q0 * q0, q0q1 = q0 * q1, q0q2 = q0 * q2, q0q3 = q0 * q3;
+      |           ^~~~
+/home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/eps_nrf24l01/src/madgwick.c:40:19: warning: variable '_2bx' set but not used [-Wunused-but-set-variable]
+   40 |     float hx, hy, _2bx, _2bz;
+      |                   ^~~~
+/home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp32/medidor_corrente/main/main.c:19:10: fatal error: driver/i2c_master.h: No such file or directory
+   19 | #include "driver/i2c_master.h"
+      |          ^~~~~~~~~~~~~~~~~~~~~
+compilation terminated.
+make[2]: *** [esp-idf/main/CMakeFiles/__idf_main.dir/build.make:76: esp-idf/main/CMakeFiles/__idf_main.dir/main.c.obj] Erro 1
+make[1]: *** [CMakeFiles/Makefile2:7389: esp-idf/main/CMakeFiles/__idf_main.dir/all] Erro 2
+make[1]: ** Esperando que outros processos terminem.
+make: *** [Makefile:136: all] Erro 2

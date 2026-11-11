@@ -1,0 +1,37 @@
+esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/io_mux.c.obj: \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/esp_hw_support/port/esp32/io_mux.c \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/esp_hw_support/include/esp_private/io_mux.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/lib/gcc/xtensa-esp-elf/15.2.0/include/stdbool.h \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/esp_common/include/esp_err.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/stdint.h \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/esp_libc/platform_include/sys/cdefs.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/cdefs.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/config.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/machine/ieeefp.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/features.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/picolibc.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/lib/gcc/xtensa-esp-elf/15.2.0/include/float.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/machine/_default_types.h \
+ /home/joaopedro/Documentos/ufc/semestre_08/instrumetacao/projeto/esp32cam/contador_pessoas/build/config/sdkconfig.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/lib/gcc/xtensa-esp-elf/15.2.0/include/stddef.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/_intsup.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/_stdint.h \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/esp_libc/platform_include/stdio.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/stdio.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/lib/gcc/xtensa-esp-elf/15.2.0/include/stdarg.h \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/esp_libc/platform_include/sys/lock.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/lock.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/_types.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/machine/_types.h \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/esp_libc/platform_include/assert.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/stdlib.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/machine/stdlib.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/alloca.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/_locale.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/_wait.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/assert.h \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/esp_common/include/esp_compiler.h \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/soc/esp32/include/soc/clk_tree_defs.h \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/esp_hal_gpio/esp32/include/soc/gpio_num.h \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/soc/esp32/include/soc/soc_caps.h \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/soc/include/soc/soc_caps_eval.h

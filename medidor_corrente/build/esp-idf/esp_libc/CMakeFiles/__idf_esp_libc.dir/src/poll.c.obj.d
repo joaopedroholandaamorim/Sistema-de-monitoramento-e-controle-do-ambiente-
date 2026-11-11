@@ -1,0 +1,36 @@
+esp-idf/esp_libc/CMakeFiles/__idf_esp_libc.dir/src/poll.c.obj: \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/esp_libc/src/poll.c \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/lib/gcc/xtensa-esp-elf/15.2.0/include/stddef.h \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/esp_libc/platform_include/sys/reent.h \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp32/medidor_corrente/build/config/sdkconfig.h \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/esp_libc/platform_include/sys/poll.h \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/esp_libc/platform_include/sys/select.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/types.h \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/esp_libc/platform_include/sys/cdefs.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/cdefs.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/config.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/machine/ieeefp.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/features.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/picolibc.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/lib/gcc/xtensa-esp-elf/15.2.0/include/float.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/machine/_default_types.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/stdint.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/_intsup.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/_stdint.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/machine/_types.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/_types.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/machine/endian.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/machine/_endian.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/_pthreadtypes.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/sched.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/_timespec.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/machine/types.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/select.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/_sigset.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/_timeval.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/_select.h \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/esp_libc/platform_include/sys/errno.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/errno.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/param.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/syslimits.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/machine/param.h

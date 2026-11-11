@@ -1,0 +1,7 @@
+-Wno-frame-address
+-mlongcalls
+-fno-builtin-memcpy
+-fno-builtin-memset
+-fno-builtin-bzero
+"-specs=/home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp32/medidor_corrente/build/specs/picolibc.specs"
+-fno-rtti

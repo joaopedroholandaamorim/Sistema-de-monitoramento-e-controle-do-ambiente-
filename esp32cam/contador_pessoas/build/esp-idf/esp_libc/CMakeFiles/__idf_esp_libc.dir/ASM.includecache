@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/esp_libc/src/picolibc/esp32_psram/memcpy.S
+picolibc.h
+-
+xtensa-asm.h
+/home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/esp_libc/src/picolibc/esp32_psram/xtensa-asm.h
+
+/home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/esp_libc/src/picolibc/esp32_psram/memset.S
+picolibc.h
+-
+xtensa-asm.h
+/home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/esp_libc/src/picolibc/esp32_psram/xtensa-asm.h
+
+/home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/esp_libc/src/picolibc/esp32_psram/strcpy.S
+picolibc.h
+-
+xtensa-asm.h
+/home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/esp_libc/src/picolibc/esp32_psram/xtensa-asm.h
+
+/home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/esp_libc/src/picolibc/esp32_psram/strncpy.S
+picolibc.h
+-
+xtensa-asm.h
+/home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/esp_libc/src/picolibc/esp32_psram/xtensa-asm.h
+
+/home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/esp_libc/src/picolibc/esp32_psram/xtensa-asm.h
+machine/core-isa.h
+-
+

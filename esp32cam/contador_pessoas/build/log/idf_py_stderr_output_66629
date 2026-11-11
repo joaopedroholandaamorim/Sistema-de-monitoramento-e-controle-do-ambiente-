@@ -1,0 +1,26 @@
+Command: make -j 10 all
+info: Default value for ESP_INT_WDT_TIMEOUT_MS in sdkconfig is 800 but it is 300 according to Kconfig.
+Using default value from sdkconfig (800).
+Configuration Report                                                            
+ ────────────────────────────────────────────────────────────────────────────── 
+   Parser Version: 1                                                            
+   Verbosity: default                                                           
+   Defaults policy: sdkconfig                                                   
+   Status: Finished with notifications                                          
+                                                                                
+  Default Value Mismatch                                                        
+   ──────────────────────────────────────────────────────────────────────────   
+    Using sdkconfig default values                                              
+    Config symbols with different default value between sdkconfig and           
+    Kconfig                                                                     
+    ESP_INT_WDT_TIMEOUT_MS: Kconfig default value: 300, sdkconfig default       
+    value: 800                                                                  
+   ──────────────────────────────────────────────────────────────────────────   
+ ────────────────────────────────────────────────────────────────────────────── 
+/home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/eps_nrf24l01/src/madgwick.c: In function 'Madgwick_Update':
+/home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/eps_nrf24l01/src/madgwick.c:41:11: warning: unused variable 'q0q0' [-Wunused-variable]
+   41 |     float q0q0 = q0 * q0, q0q1 = q0 * q1, q0q2 = q0 * q2, q0q3 = q0 * q3;
+      |           ^~~~
+/home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/eps_nrf24l01/src/madgwick.c:40:19: warning: variable '_2bx' set but not used [-Wunused-but-set-variable]
+   40 |     float hx, hy, _2bx, _2bz;
+      |                   ^~~~

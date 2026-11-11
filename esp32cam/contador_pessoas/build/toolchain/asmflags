@@ -1,0 +1,9 @@
+-Wno-frame-address
+-mlongcalls
+-fno-builtin-memcpy
+-fno-builtin-memset
+-fno-builtin-bzero
+-mdisable-hardware-atomics
+"-specs=/home/joaopedro/Documentos/ufc/semestre_08/instrumetacao/projeto/esp32cam/contador_pessoas/build/specs/picolibc.specs"
+-mfix-esp32-psram-cache-issue
+-mfix-esp32-psram-cache-strategy=memw

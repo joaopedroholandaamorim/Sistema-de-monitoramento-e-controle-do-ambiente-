@@ -1,0 +1,28 @@
+esp-idf/protocomm/CMakeFiles/__idf_protocomm.dir/proto-c/sec0.pb-c.c.obj: \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/protocomm/proto-c/sec0.pb-c.c \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/protocomm/proto-c/sec0.pb-c.h \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/protobuf-c/protobuf-c/protobuf-c/protobuf-c.h \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/esp_libc/platform_include/assert.h \
+ /home/joaopedro/Documentos/ufc/semestre_08/instrumetacao/projeto/esp32cam/contador_pessoas/build/config/sdkconfig.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/stdlib.h \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/esp_libc/platform_include/sys/cdefs.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/cdefs.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/config.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/machine/ieeefp.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/features.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/picolibc.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/lib/gcc/xtensa-esp-elf/15.2.0/include/float.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/machine/_default_types.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/stdint.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/lib/gcc/xtensa-esp-elf/15.2.0/include/stddef.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/_intsup.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/_stdint.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/machine/stdlib.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/alloca.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/_locale.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/_wait.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/assert.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/limits.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/picolibc/include/sys/syslimits.h \
+ /home/joaopedro/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/lib/gcc/xtensa-esp-elf/15.2.0/include/limits.h \
+ /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/components/protocomm/proto-c/constants.pb-c.h

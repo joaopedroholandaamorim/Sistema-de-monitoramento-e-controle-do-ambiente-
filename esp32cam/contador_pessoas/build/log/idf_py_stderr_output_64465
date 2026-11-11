@@ -1,0 +1,11 @@
+Command: cmake -G Unix Makefiles -B /home/joaopedro/Documentos/ufc/semestre_08/instrumetacao/projeto/esp32cam/contador_pessoas/build -DPYTHON_DEPS_CHECKED=1 -DPYTHON=/home/joaopedro/.espressif/python_env/idf6.1_py3.12_env/bin/python -DESP_PLATFORM=1 -DCCACHE_ENABLE=False /home/joaopedro/Documentos/ufc/semestre_08/instrumetacao/projeto/esp32cam/contador_pessoas
+CMake Error at /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/tools/cmake/build.cmake:380 (message):
+  Failed to resolve component 'esp_camera' required by component 'main':
+  unknown name.
+Call Stack (most recent call first):
+  /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/tools/cmake/build.cmake:423 (__build_resolve_and_add_req)
+  /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/tools/cmake/build.cmake:768 (__build_expand_requirements)
+  /home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/tools/cmake/project.cmake:773 (idf_build_process)
+  CMakeLists.txt:6 (project)
+
+

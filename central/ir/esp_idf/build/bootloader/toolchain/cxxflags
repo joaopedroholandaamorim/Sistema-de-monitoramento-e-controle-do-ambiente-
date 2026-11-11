@@ -1,0 +1,7 @@
+"-specs=/home/joaopedro/Documentos/ufc/semestre_08/instrumetacao/projeto/ir/esp_idf/build/bootloader/specs/picolibc.specs"
+-Wno-frame-address
+-mlongcalls
+-fno-builtin-memcpy
+-fno-builtin-memset
+-fno-builtin-bzero
+-fno-rtti
