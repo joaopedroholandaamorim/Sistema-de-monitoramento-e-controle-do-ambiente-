@@ -7,7 +7,6 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
-  "/home/joaopedro/.git/HEAD"
   "/home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/.git/HEAD"
   "/home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/.git/modules/components/bootloader/subproject/components/micro-ecc/micro-ecc/HEAD"
   "/home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/.git/modules/components/bt/controller/lib_esp32/HEAD"
@@ -268,6 +267,8 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/tools/cmake/version.cmake"
   "/home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/tools/kconfig_new/confgen.py"
   "/home/joaopedro/Documentos/ufc/semestre_07/RTOS/esp-idf/tools/kconfig_new/config.env.in"
+  "/home/joaopedro/Documentos/ufc/semestre_08/instrumetacao/projeto/.git/HEAD"
+  "/home/joaopedro/Documentos/ufc/semestre_08/instrumetacao/projeto/.git/refs/heads/main"
   "/home/joaopedro/Documentos/ufc/semestre_08/instrumetacao/projeto/esp32cam/contador_pessoas/CMakeLists.txt"
   "CMakeFiles/3.28.3/CMakeASMCompiler.cmake"
   "CMakeFiles/3.28.3/CMakeCCompiler.cmake"
@@ -436,6 +437,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "CMakeFiles/3.28.3/CMakeCXXCompiler.cmake"
   "CMakeFiles/git-data/HEAD"
   "CMakeFiles/git-data/grabRef.cmake"
+  "CMakeFiles/git-data/head-ref"
   "config.env"
   "bootloader-prefix/tmp/bootloader-mkdirs.cmake"
   "bootloader-prefix/src/bootloader-stamp/bootloader-source_dirinfo.txt"
